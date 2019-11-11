@@ -6,6 +6,8 @@
 +++
 ![IMAGE](assets/img/wireframes.001.jpeg)
 ---
+![IMAGE](assets/img/wireframes.005.jpeg)
++++
 ![IMAGE](assets/img/wireframes.006.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.007.jpeg)
@@ -14,7 +16,9 @@
 +++
 ![IMAGE](assets/img/wireframes.005.jpeg)
 ---
-![IMAGE](assets/img/wireframes.010.jpeg)
+![IMAGE](assets/img/wireframes.005.jpeg)
++++
+![IMAGE](assets/img/wireframes.009.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.011.jpeg)
 +++
@@ -22,6 +26,8 @@
 +++
 ![IMAGE](assets/img/wireframes.009.jpeg)
 ---
+![IMAGE](assets/img/wireframes.013.jpeg)
++++
 ![IMAGE](assets/img/wireframes.014.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.015.jpeg)
