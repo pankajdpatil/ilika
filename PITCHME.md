@@ -1,3 +1,15 @@
+![IMAGE](assets/img/A2019301_refl_merged.png)
++++
+![IMAGE](assets/img/A2019301_cot_merged.png)
++++
+![IMAGE](assets/img/A2019301_cwp_merged.png)
+---
+![IMAGE](assets/img/refl.gif)
++++
+![IMAGE](assets/img/cot.gif)
++++
+![IMAGE](assets/img/cwp.gif)
+---
 ![IMAGE](assets/img/wireframes.002.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.003.jpeg)
