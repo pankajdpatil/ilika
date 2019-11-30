@@ -112,3 +112,25 @@ Pictures worth thousand words
 ![IMAGE](assets/img/wireframes.016.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.013.jpeg)
++++
+App largely free
+Name recognition
+Possibly supported by ads
+---
+# Monetization
++++
+Higher Resolution Imagery
+Derived Data
+---
+## Higher Resolution Imagery
+---
+## Derived Data
+---
+## NDVI
+---
+## EVI
+---
+## Other Data
+Aerosol
+NO2, CO2 Gases
+---
