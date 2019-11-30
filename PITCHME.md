@@ -43,9 +43,24 @@ Public weather infrastructure
 +++
 Weather apps
 ---
+## Information Dessimation 
++++
+Target Audience
++++
+Medium: App
+---
 ## Standing Out
 +++
-### 
+Competition: https://www.skymetweather.com/
++++
+Targeted content
++++
+Easy to consume
+---
+## Targeted Content
++++
+Pictures worth thousand words
++++
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
 [Cloud Optical Thickness](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png)
@@ -58,6 +73,8 @@ Weather apps
 +++
 ![IMAGE](assets/img/cwp.gif)
 ---
+# The App
++++
 ![IMAGE](assets/img/wireframes.002.jpeg)
 +++
 ![IMAGE](assets/img/wireframes.003.jpeg)
