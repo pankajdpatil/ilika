@@ -1,3 +1,22 @@
+Ilika
+---
+Improved short term raifall predictions in India
+---
+Machine Learning
++++
+LSTM Deep Larning Models
++++
+Training Data?
++++
+Planet Labs
++++
+#Public Agencies
+##NASA
+##NOAA
+##USGS
+##ESA
+##ISRO
+---
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
 [Cloud Optical Thickness](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png)
