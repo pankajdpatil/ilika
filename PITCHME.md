@@ -53,11 +53,11 @@ Medium: App
 +++
 Competition: https://www.skymetweather.com/
 +++
-Targeted content
+Value added content
 +++
 Easy to consume
 ---
-## Targeted Content
+## Value added content
 +++
 Pictures worth thousand words
 +++
