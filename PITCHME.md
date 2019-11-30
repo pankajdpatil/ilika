@@ -17,7 +17,7 @@ Satellites
 ##### ESA
 ##### ISRO
 +++
-![IMAGE](assets/img/Ilika.022.jpeg.gif)
+![IMAGE](assets/img/Ilika.022.jpeg)
 ---
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
