@@ -120,27 +120,28 @@ Possibly supported by ads
 ## Monetization
 +++
 Higher Resolution Imagery
+
 Derived Data
 ---
 ## Higher Resolution Imagery
 +++
-![India Cloud Map](assets/img/A2019300_refl_whole_india.png)
+[India Cloud Map](assets/img/A2019300_refl_whole_india.png)
 +++
-![Maharashtra Cloud Map](assets/img/A2019300_refl_qkm_maharashtra.png)
+[Maharashtra Cloud Map](assets/img/A2019300_refl_qkm_maharashtra.png)
 ---
 ## Derived Data
 ---
 ## NDVI
 +++
-![India Oct 27](assets/img/A2019300_ndvi_rdylgr_whole_india.png)
-![North India Oct 27](assets/img/A2019300_ndvi_rdylgr.png)
-![Morth India Apr 27](assets/img/A2019117_ndvi_rdylgr.png)
+[India Oct 27](assets/img/A2019300_ndvi_rdylgr_whole_india.png)
+[North India Oct 27](assets/img/A2019300_ndvi_rdylgr.png)
+[Morth India Apr 27](assets/img/A2019117_ndvi_rdylgr.png)
 ---
 ## EVI
 +++
-![India Oct 27](assets/img/A2019300_evi_rdylgr_whole_india.png)
-![North India Oct 27](assets/img/A2019300_evi_rdylgr.png)
-![Morth India Apr 27](assets/img/A2019117_evi_rdylgr.png)
+[India Oct 27](assets/img/A2019300_evi_rdylgr_whole_india.png)
+[North India Oct 27](assets/img/A2019300_evi_rdylgr.png)
+[Morth India Apr 27](assets/img/A2019117_evi_rdylgr.png)
 ---
 ## Other Data
 Aerosol
