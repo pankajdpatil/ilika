@@ -1,8 +1,8 @@
-https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png
+[Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
-https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png
+[Cloud Optical Thickness](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png)
 +++
-https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png
+[Cloud Water Path](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cwp_merged.png)
 ---
 ![IMAGE](assets/img/refl.gif)
 +++
