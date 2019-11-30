@@ -1,6 +1,6 @@
 Ilika
 ---
-Improved short term raifall predictions in India
+Goal: Improved short term raifall predictions in India
 ---
 Machine Learning
 +++
@@ -8,14 +8,14 @@ LSTM Deep Larning Models
 +++
 Training Data?
 +++
-Planet Labs
+Satellites
 +++
-#Public Agencies
-##NASA
-##NOAA
-##USGS
-##ESA
-##ISRO
+# Public Agencies
+## NASA
+## NOAA
+## USGS
+## ESA
+## ISRO
 ---
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
