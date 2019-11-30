@@ -1,8 +1,8 @@
-![IMAGE](assets/img/A2019301_refl_merged.png)
+https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png
 +++
-![IMAGE](assets/img/A2019301_cot_merged.png)
+https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png
 +++
-![IMAGE](assets/img/A2019301_cwp_merged.png)
+https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png
 ---
 ![IMAGE](assets/img/refl.gif)
 +++
