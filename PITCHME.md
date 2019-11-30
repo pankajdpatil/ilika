@@ -2,7 +2,7 @@
 ---
 Goal: Improved short term raifall predictions in India
 ---
-Machine Learning
+## Machine Learning
 +++
 LSTM Deep Larning Models
 +++
@@ -35,14 +35,23 @@ Satellites
 +++
 ![IMAGE](assets/img/Ilika.030.jpeg)
 ---
-Weather Prediction
+## Weather Prediction
++++
+A difficult problem
++++
+Public weather infrastructure
++++
+Weather apps
 ---
+## Standing Out
++++
+### 
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
 [Cloud Optical Thickness](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cot_merged.png)
 +++
 [Cloud Water Path](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_cwp_merged.png)
----
++++
 ![IMAGE](assets/img/refl.gif)
 +++
 ![IMAGE](assets/img/cot.gif)
