@@ -1,4 +1,4 @@
-Ilika
+# Ilika
 ---
 Goal: Improved short term raifall predictions in India
 ---
@@ -34,6 +34,8 @@ Satellites
 ![IMAGE](assets/img/Ilika.029.jpeg)
 +++
 ![IMAGE](assets/img/Ilika.030.jpeg)
+---
+Weather Prediction
 ---
 [Cloud Reflection](https://github.com/pankajdpatil/ilika/blob/master/assets/img/A2019301_refl_merged.png)
 +++
