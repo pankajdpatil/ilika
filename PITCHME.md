@@ -117,7 +117,7 @@ App largely free
 Name recognition
 Possibly supported by ads
 ---
-# Monetization
+## Monetization
 +++
 Higher Resolution Imagery
 Derived Data
@@ -132,5 +132,6 @@ Derived Data
 ---
 ## Other Data
 Aerosol
+
 NO2, CO2 Gases
 ---
